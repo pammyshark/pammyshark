@@ -5,7 +5,7 @@ Passionate about working with startups.
 I love the tech landscape so I'm always volunteering in tech communities and/or events.
 I’ve expanded my skill set into data science and am currently blending it with web development to create more data-driven, impactful solutions.
 
-[![Pam's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Pam's GitHub stats](https://github-readme-stats.vercel.app/api?username=pammyshark)](https://github.com/pammyshark/github-readme-stats)
 
 ## 🚀 About Me
 
